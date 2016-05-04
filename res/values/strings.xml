@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">ИСТИНА ГДЕ-ТО РЯДОМ</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="Loadtst">Load news please wait...</string>
+    <string name="Update_news">Update</string>
+    <string name="Comments">Comments:</string>
+    <string name="Likes">Likes: </string>
+    <string name="Podderjka">ПОДДЕРЖКА ПРОЕКТА</string>
+    <string name="Reposts">Reposts: </string>
+    <string name="admob_publisher_id">ca-app-pub-8193158948263409/4993423978</string>
+    <color name = "black">#000000</color>
+    <color name = "white">#A9D9BF</color>
+    <color name = "gray" >#E9E9EB</color>
+     <color name = "black_gray">#4DB849</color>
+     <color name = "brown">#FDB668</color>
+    
+
+</resources>
